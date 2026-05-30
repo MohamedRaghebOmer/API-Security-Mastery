@@ -1,6 +1,6 @@
 # 🛡️ API Security Mastery
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This repository is a hands-on API security engineering project built with ASP.NET Core. It demonstrates how an intentionally simple public API can be hardened step by step into a secure API using practical controls, not theory alone.
 
