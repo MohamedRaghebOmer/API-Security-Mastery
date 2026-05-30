@@ -1,4 +1,4 @@
-# 🛡️ ASP.NET Core API Security Practice
+# 🛡️ API Security Mastery
 
 ## 📌 Project Overview
 
