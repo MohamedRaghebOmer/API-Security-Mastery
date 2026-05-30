@@ -11,7 +11,7 @@ The focus is security implementation: authentication, authorization, session han
 Most sample APIs stop at CRUD functionality. This project focuses on what matters in real back-end systems:
 
 - enforcing least privilege
-- preventing horizontal privilege escalation
+- preventing horizontal privilege escalation 
 - securing token lifecycle and logout
 - reducing brute-force and abuse risk
 - creating auditable security events
